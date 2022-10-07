@@ -1,0 +1,18 @@
+{
+  "name": "sss32-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยhappy✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยhappy",
+"วิธีสมัครเว็บหวย",
+"สมัครหวย lottovip",
+"หวยออนไลน์888",
+"lottovip888"
+],
+  "repository": "https://github.com/setteebet/sss32-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
